@@ -11,3 +11,4 @@ python3 main.py
 
 And enter all the information it requires
 
+Works only on Linux and MacOS
